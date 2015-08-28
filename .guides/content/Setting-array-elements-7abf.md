@@ -16,9 +16,14 @@ numArray = []
 ```
 
 ## Play with the chart
-Take a look at the Flode chart on the left. This shows how you 
+Take a look at the code on the left. 
+
+{Run code}(node run-user.js 1-arrays/example2.js)
+
+This shows how you 
 
 1. Define a new array
 1. Assign values to array elements (note we are not assigning values to *contiguous* elements)
-1. Output the array
+1. Show each array element in the console
 
+When you run the code, notice how some of the elements are *undefined*. This is because we only assigned elements 0 and 4. Javascript automatically inserts array elements in between but they are at that point undefined as they don't have any values assigned to them.

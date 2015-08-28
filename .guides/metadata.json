@@ -1,7 +1,7 @@
 {
  "sections": [
   {
-   "id": "82f151df-4bd8-bd56-f3d1-1de4730cbf61",
+   "id": "e942483c-b1f4-42b7-e597-33caf2e0e0",
    "title": "Arrays",
    "files": [
     {
@@ -12,7 +12,54 @@
    "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Arrays-82f1.md",
+   "content-file": ".guides/content/Arrays-e942.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "21716d87-335-fce8-1c91-31e242f8a449",
+   "title": "Preparation video",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Preparation-video-2171.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "1e46398d-50ea-d061-25f0-26744848c984",
+   "title": "Experiments",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "experiment.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Experiments-1e46.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "82f151df-4bd8-bd56-f3d1-1de4730cbf61",
+   "title": "Arrays explained",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Arrays-explained-82f1.md",
    "chapter": true,
    "reset": [
     "1-arrays"
@@ -47,7 +94,7 @@
      "action": "close"
     },
     {
-     "path": "1-arrays/example1.flode",
+     "path": "1-arrays/example1.js",
      "panel": 0,
      "action": "open"
     }
@@ -79,7 +126,7 @@
      "action": "close"
     },
     {
-     "path": "sum.flode",
+     "path": "sum.js",
      "panel": 0,
      "action": "open"
     }
@@ -100,7 +147,7 @@
      "action": "close"
     },
     {
-     "path": "1-arrays/example2.flode",
+     "path": "1-arrays/example2.js",
      "panel": 0,
      "action": "open"
     }
@@ -137,7 +184,7 @@
      "action": "close"
     },
     {
-     "path": "populate.flode",
+     "path": "populate.js",
      "panel": 0,
      "action": "open"
     }
@@ -158,7 +205,7 @@
      "action": "close"
     },
     {
-     "path": "strarray.flode",
+     "path": "strarray.js",
      "panel": 0,
      "action": "open"
     }
@@ -179,7 +226,7 @@
      "action": "close"
     },
     {
-     "path": "numsearch.flode",
+     "path": "numsearch.js",
      "panel": 0,
      "action": "open"
     }
@@ -200,7 +247,7 @@
      "action": "close"
     },
     {
-     "path": "max.flode",
+     "path": "max.js",
      "panel": 0,
      "action": "open"
     }
@@ -221,7 +268,7 @@
      "action": "close"
     },
     {
-     "path": "x10.flode",
+     "path": "x10.js",
      "panel": 0,
      "action": "open"
     }
@@ -242,7 +289,7 @@
      "action": "close"
     },
     {
-     "path": "split.flode",
+     "path": "split.js",
      "panel": 0,
      "action": "open"
     }
