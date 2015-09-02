@@ -9,16 +9,18 @@ If you want to create an array and you know the elements already (which is not t
 numArray = [1, 55, 3, 16]
 ```
 
-But often you will add elements to the array later, so you can create an empty array like this.
+But often you will not have any elements to start with and will want to add them later. 
+
+In this case, you should create an empty array like this first.
 
 ```javascript
 numArray = []
 ```
 
-## Play with the chart
+## Run the code
 Take a look at the code on the left. 
 
-{Run code}(node run-user.js 1-arrays/example2.js)
+{Run code}(node run-user.js ./1-arrays/example2.js)
 
 This shows how you 
 

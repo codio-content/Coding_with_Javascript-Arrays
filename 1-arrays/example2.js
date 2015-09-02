@@ -1,5 +1,6 @@
 // Create some arrays
 unusedArray = [1,2,3,4]
+unusedStrArray = [ 'Alice', 'Shahneila', 'Bob', 'Tariq' ]
 numArray = []
 
 // Assign some data to the 1st and 5th elements

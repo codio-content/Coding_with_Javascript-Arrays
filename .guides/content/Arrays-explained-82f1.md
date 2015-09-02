@@ -1,10 +1,35 @@
-We already dealt thoroughly with arrays in Flode. Here is a recap just for reference before we explain how to code them.
+We assume that you have already done the Flode Arrays Unit and are now familiar with the concept of arrays.
 
-## Real World Analogy
-A simple analogy is a row of 100 houses along one side of a street. Each house is numbered from 1 to 100. Inside each house there live a certain number of people. 
+{Run the code on the left}(node run-user.js ./1-arrays/example1.js)
 
-- 4 people live in house 1
-- 2 people in house 24
-- 5 people in house 54 
-- etc.
+## Creating arrays
+Array creation in Javascript works in exactly the same way as in Flode. The Flode chart on the left shows the Flode ways of creating arrays.
+
+### String arrays
+You create a string array like this
+
+```javascript
+strArray = [ 'Alice', 'Shahneila', 'Bobx, 'Tariq' ]
+```
+
+### Number arrays
+Here's an example of a number array
+
+```javascript
+numArray = [1, 3.141, 5, 17.1, 100]
+```
+
+### Empty array
+If you plan to create your own array then you need to create an empty array variable before you add data to it.
+
+```javascript
+numArray[0] = 4
+```
+
+will fail if the array was not already created. So, this is the correct way.
+
+```javascript
+numArray = []
+numArray[0] = 4
+```
 

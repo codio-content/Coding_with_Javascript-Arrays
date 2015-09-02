@@ -9,7 +9,7 @@
      "action": "close"
     }
    ],
-   "layout": "2-panels-tree",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Arrays-e942.md",
@@ -35,12 +35,12 @@
      "action": "close"
     },
     {
-     "path": "experiment.flode",
+     "path": "experiment.js",
      "panel": 0,
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Experiments-1e46.md",
@@ -54,9 +54,14 @@
     {
      "path": "#tabs",
      "action": "close"
+    },
+    {
+     "path": "1-arrays/example1.js",
+     "panel": 0,
+     "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Arrays-explained-82f1.md",
@@ -66,35 +71,15 @@
    ]
   },
   {
-   "id": "e154febe-a7a1-5343-46e8-fe988d135d9",
-   "title": "Array of numbers",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Array-of-numbers-e154.md",
-   "chapter": false,
-   "reset": []
-  },
-  {
-   "id": "4d0391d-eda6-83d5-24e7-2987cc29fb0a",
-   "title": "Array of strings",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Array-of-strings-4d03.md",
-   "chapter": false,
-   "reset": []
-  },
-  {
-   "id": "ff54e4d8-ab0e-92f9-6c0d-2405f5e0f028",
-   "title": "Defining an array",
+   "id": "7abf3cf6-9779-3cc3-9776-696bb7a523e6",
+   "title": "Setting array elements",
    "files": [
     {
      "path": "#tabs",
      "action": "close"
     },
     {
-     "path": "1-arrays/example1.js",
+     "path": "1-arrays/example2.js",
      "panel": 0,
      "action": "open"
     }
@@ -102,18 +87,7 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Defining-an-array-ff54.md",
-   "chapter": false,
-   "reset": []
-  },
-  {
-   "id": "7a8fcd98-907-392-7738-8b0be186b1d4",
-   "title": "Arrays in action",
-   "files": [],
-   "layout": "",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Arrays-in-action-7a8f.md",
+   "content-file": ".guides/content/Setting-array-elements-7abf.md",
    "chapter": false,
    "reset": []
   },
@@ -135,27 +109,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge--array-sum--9709.md",
-   "chapter": false,
-   "reset": []
-  },
-  {
-   "id": "7abf3cf6-9779-3cc3-9776-696bb7a523e6",
-   "title": "Setting array elements",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "1-arrays/example2.js",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Setting-array-elements-7abf.md",
    "chapter": false,
    "reset": []
   },
