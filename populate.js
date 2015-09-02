@@ -1,4 +1,5 @@
-input0 = 8
+
+input0 = -2
 array = []
 
 for ( i=0; i < input0; i++ ) {
