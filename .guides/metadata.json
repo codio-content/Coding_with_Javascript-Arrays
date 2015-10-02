@@ -14,7 +14,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Arrays-e942.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "21716d87-335-fce8-1c91-31e242f8a449",
@@ -24,7 +25,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Preparation-video-2171.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "1e46398d-50ea-d061-25f0-26744848c984",
@@ -45,7 +47,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Experiments-1e46.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "82f151df-4bd8-bd56-f3d1-1de4730cbf61",
@@ -68,7 +71,19 @@
    "chapter": true,
    "reset": [
     "1-arrays"
-   ]
+   ],
+   "teacherOnly": false
+  },
+  {
+   "id": "ae6b34f5-ef42-e8ed-25a8-5e456a0232cb",
+   "title": "Length of an array",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Length-of-an-array-ae6b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "7abf3cf6-9779-3cc3-9776-696bb7a523e6",
@@ -89,18 +104,19 @@
    "type": "markdown",
    "content-file": ".guides/content/Setting-array-elements-7abf.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
-   "id": "97098570-1fad-f0c-c7df-dff5704285f9",
-   "title": "Challenge (array sum)",
+   "id": "dadd8e0e-1a3a-4801-3da5-aeb5a0bb626a",
+   "title": "Push and Pop",
    "files": [
     {
      "path": "#tabs",
      "action": "close"
     },
     {
-     "path": "sum.js",
+     "path": "1-arrays/push-pop.js",
      "panel": 0,
      "action": "open"
     }
@@ -108,9 +124,32 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--array-sum--9709.md",
+   "content-file": ".guides/content/Push-and-Pop-dadd.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f80d53f1-3bcc-90c0-c2f3-5e3c1b6add79",
+   "title": "Shift and Unshift",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "1-arrays/shift-unshift.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Shift-and-Unshift-f80d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "f9d0614b-94f4-d39c-be02-6b1368709d95",
@@ -126,7 +165,30 @@
    "type": "markdown",
    "content-file": ".guides/content/Challenges-f9d0.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "97098570-1fad-f0c-c7df-dff5704285f9",
+   "title": "Array sum",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "sum.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Array-sum-9709.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "e8b16add-98fa-34d2-4852-8dc4961d9576",
@@ -147,7 +209,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Populate-a-new-array-e8b1.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "19709f2d-ba55-7a50-a1a3-27b05a18513b",
@@ -168,7 +231,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Short-string-array-1970.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "4d8cc68b-670f-9911-87a8-644c5fa904",
@@ -189,7 +253,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Simple-Number-Search-4d8c.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "7510d998-2f84-be95-af18-be75d07f94",
@@ -210,7 +275,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Max-number-7510.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "68ffe9c-beb-64ff-22d9-6b07f098ec1",
@@ -231,7 +297,8 @@
    "type": "markdown",
    "content-file": ".guides/content/X-10-every-other-68ff.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "38373b23-a81-d9b3-7fcd-33fad4952452",
@@ -252,7 +319,8 @@
    "type": "markdown",
    "content-file": ".guides/content/1-in--2-out-3837.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "8bcfecc4-7aae-8be7-6902-d15967218fc6",
@@ -268,7 +336,8 @@
    "type": "markdown",
    "content-file": ".guides/content/All-done---8bcf.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",
