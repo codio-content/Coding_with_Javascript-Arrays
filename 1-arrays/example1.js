@@ -1,7 +1,10 @@
 
-input0 = [12, 5, 68, 51, 62]
-input1 = ['Richard', 'Alice', 'Jennifer', 'Bob', 'Harry']
+// Create a list with ages
+var ages  = [12, 5, 68, 51, 62]
 
-for (var index = 0; index < input0.length; index++ ) {
-  console.log(input1[index] + ' is ' + input0[index]) 
+// Create a list with names
+var names = ['Richard', 'Alice', 'Jennifer', 'Bob', 'Harry']
+
+for (var index = 0; index < ages.length; index++ ) {
+  console.log(names[index] + ' is ' + ages[index]) 
 }

@@ -1,25 +1,30 @@
-{Run code}(node run-user.js numsearch.js)
-
 {Check It!|assessment}(test-1147907621)
 
 |||guidance
 ## Solution
 ```javascript
-input0 = [1,3,11,42,12]
-input1 = 42
 
-for ( i=0, found=0; i< input0.length; i++ ) {
-  if ( input0[i] == input1) {
-    found = i
-    // The break statement exits the loop
-    break
+// Get input from the command line
+N = process.argv.pop()          // Remove the last argument to get N
+input0 = process.argv.slice(2)  // use the rest for our array
+
+// Your code goes here
+
+//
+// Have we found the value yet?
+var foundIt= false  // initialize to false
+
+// loop until we have found the value 
+// or we are out of elements to check
+for(var i=0; !foundIt && i < input0.length; i++){
+  if(input0[i] == N){      // a match?
+    console.log(i)         // Yes! output it.
+    foundIt= true          // foundIt is true
   }
 }
-if (found==0) {
-  output(-1)
-}
-else {
-  output(found)
+
+if(!foundIt){       // Did we find it?
+  console.log(-1)   // Yes - print a -1
 }
 ```
 |||

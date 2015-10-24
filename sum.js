@@ -1,3 +1,5 @@
 
-input0 = [1, 3, 5, 7, 9]
+// Get the input0 array from the command line
+input0 = process.argv.slice(2)
 
+// Your code goes here

@@ -5,9 +5,9 @@ One important thing you will need to know about arrays is the number of elements
 If you look at the code on the left, you will see the following
 
 ```javascript
-input0.length
+ages.length
 ```
 
-This returns the number of elements in the array `input0`. 
+This returns the number of elements in the array `ages`. 
 
 You will often use this in loops so you can loop through all the elements in an array.

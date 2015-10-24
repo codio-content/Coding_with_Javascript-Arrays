@@ -1,16 +1,18 @@
-{Run code}(node run-user.js x10.js)
-
 {Check It!|assessment}(test-4030970452)
 
 |||guidance
 ### Solution
 ```javascript
-input0 = [1, 2, 3, 4, 5, 6]
-input1 = 5
-input2 = 3
 
-for ( i=input2 - 1; i < input0.length; i += input2 ) {
-  input0[i] = input0[i] * input1
+// Get input from the command line
+N = process.argv.pop()
+M = process.argv.pop()
+input0 = process.argv.slice(2)
+
+// Your code goes here
+
+for ( i=N - 1; i < input0.length; i += N ) {
+  input0[i] = input0[i] * M
 }
 
 output(input0)

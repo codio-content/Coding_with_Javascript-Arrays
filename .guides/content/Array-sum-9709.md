@@ -1,15 +1,19 @@
-{Run code}(node run-user.js sum.js)
-
+Notice the `input0` array is coming from the command line arguments. Since `process.argv` is an array, we just have to remove the first two elements that we do not want, using the array function `slice(2)`.
 {Check It!|assessment}(test-3916901719)
 
 |||guidance
 ### Solution
 ```javascript
-input0 = [1, 3, 5, 7, 9]
+// Get input array from the command line
+input0 = process.argv.slice(2)
 
-for (i=0, total=0; i < input0.length; i++ ) {
-  total += input0[i]
+// variable to keep up with the total 
+var total= 0 
+
+// loop through the array
+for (var i=0; i < input0.length; i++ ) {
+  total += input0[i] // add this array value to the total
 }
-output(total)
+console.log(total) // output results
 ```
 |||

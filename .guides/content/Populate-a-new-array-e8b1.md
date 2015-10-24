@@ -1,5 +1,3 @@
-{Run code}(node run-user.js populate.js)
-
 {Check It!|assessment}(test-3847250861)
 
 |||guidance

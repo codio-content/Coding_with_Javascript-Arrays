@@ -1,5 +1,3 @@
-{Run code}(node run-user.js max.js)
-
 {Check It!|assessment}(test-1116072670)
 
 |||guidance

@@ -1,4 +1,5 @@
 
+// Create an array with some values
 input0 = [10, 20, 30, 40, 50, 60]
 
 // loop from 0 to 2, pushing each onto the end of the list

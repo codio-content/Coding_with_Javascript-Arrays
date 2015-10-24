@@ -1,3 +1,6 @@
 
-input0 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+// Get input from the command line
+input0 = process.argv.slice(2)
+
+// Your code goes here
 

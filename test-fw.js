@@ -30,7 +30,6 @@ var test = {
       output.push(val);
     }
 
-
     //
     // Execute the code the student has provided.
     //
