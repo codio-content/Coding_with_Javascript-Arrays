@@ -3,7 +3,7 @@
 |||guidance
 ## Solution
 ```javascript
-array = ['AAA', 'BBB', 'CCC']
-output(array)
+var result = ['AAA', 'BBB', 'CCC']
+console.log(result)
 ```
 |||

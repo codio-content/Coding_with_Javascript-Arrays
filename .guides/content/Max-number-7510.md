@@ -3,15 +3,27 @@
 |||guidance
 ### Solution
 ```javascript
-input0 = [1, 5, 8, 23, 78, 22, 0]
+// Get input from the command line
+var numbers = process.argv.slice(2)
 
-for ( i=0, max=0, pos=-1; i < input0.length; i++) {
-  if ( input0[i] > max) {
-    max = input0[i]
-    pos = i
+// highest number so far
+// initialize to the lowest possible value.
+var maxSoFar= 0 - Number.MAX_VALUE
+          
+// position of highest number
+// initialize to -1
+var indexOfMax= -1
+
+// loop through all the values in numbers
+for (var i=0; i < numbers.length; i++) {
+  var thisNumber= numbers[i]
+  if (thisNumber > maxSoFar) {
+    maxSoFar = thisNumber
+    indexOfMax = i
   }
 }
 
-output(pos)
+// output
+console.log(indexOfMax)
 ```
 |||

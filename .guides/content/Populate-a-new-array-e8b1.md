@@ -3,13 +3,13 @@
 |||guidance
 ## Solution
 ```javascript
-input0 = 8
-array = []
+var N = process.argv[2]
+var result = []
 
-for ( i=0; i < input0; i++ ) {
-  array[i] = i*10
+for (var i=0; i < N; i++ ) {
+  result[i] = i*10
 }
 
-output(array)
+console.log(result)
 ```
 |||

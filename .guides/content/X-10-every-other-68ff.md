@@ -3,18 +3,15 @@
 |||guidance
 ### Solution
 ```javascript
-
 // Get input from the command line
-N = process.argv.pop()
-M = process.argv.pop()
-input0 = process.argv.slice(2)
+var N = process.argv.pop()
+var M = process.argv.pop()
+var numbers = process.argv.slice(2)
 
-// Your code goes here
-
-for ( i=N - 1; i < input0.length; i += N ) {
-  input0[i] = input0[i] * M
+for (var i=N - 1; i < numbers.length; i += N ) {
+  numbers[i] = numbers[i] * M
 }
 
-output(input0)
+console.log(numbers)
 ```
 |||

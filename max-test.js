@@ -11,5 +11,13 @@ test.tests('/home/codio/workspace/max.js', [{
   }, {
     inputs: [1,1,1,1,2],
     outputs: [4],
+  }, {
+    inputs: [0,0,0,0],
+    outputs: [0],
+    message: 'Your code does not work for all zeros in the input numbers array.'
+  }, {
+    inputs: [-9,-3,-2,-6],
+    outputs: [2],
+    message: 'Your code does not work for negative numbers in the input array.'
   }, 
 ]);

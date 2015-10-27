@@ -5,8 +5,8 @@
 ```javascript
 
 // Get input from the command line
-N = process.argv.pop()          // Remove the last argument to get N
-input0 = process.argv.slice(2)  // use the rest for our array
+var N = process.argv.pop()       // Remove the last argument to get N
+numbers = process.argv.slice(2)  // use the rest for our array
 
 // Your code goes here
 
@@ -16,8 +16,8 @@ var foundIt= false  // initialize to false
 
 // loop until we have found the value 
 // or we are out of elements to check
-for(var i=0; !foundIt && i < input0.length; i++){
-  if(input0[i] == N){      // a match?
+for(var i=0; !foundIt && i < numbers.length; i++){
+  if(numbers[i] == N){      // a match?
     console.log(i)         // Yes! output it.
     foundIt= true          // foundIt is true
   }
