@@ -1,7 +1,7 @@
 
-var test = require('./test-fw.js');
+var test = require('../test-fw.js');
 
-test.tests('/home/codio/workspace/max.js', [{
+test.tests('/home/codio/workspace/challenges/max.js', [{
     inputs: [1, 5, 8, 23, 78, 22, 0],
     outputs: [4],
   }, {

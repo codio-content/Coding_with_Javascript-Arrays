@@ -37,7 +37,7 @@
      "action": "close"
     },
     {
-     "path": "experiment.js",
+     "path": "content/experiment.js",
      "panel": 0,
      "action": "open"
     }
@@ -59,7 +59,7 @@
      "action": "close"
     },
     {
-     "path": "1-arrays/example1.js",
+     "path": "content/1-arrays/example1.js",
      "panel": 0,
      "action": "open"
     }
@@ -94,7 +94,7 @@
      "action": "close"
     },
     {
-     "path": "1-arrays/example2.js",
+     "path": "content/1-arrays/example2.js",
      "panel": 0,
      "action": "open"
     }
@@ -116,7 +116,7 @@
      "action": "close"
     },
     {
-     "path": "1-arrays/push-pop.js",
+     "path": "content/1-arrays/push-pop.js",
      "panel": 0,
      "action": "open"
     }
@@ -138,7 +138,7 @@
      "action": "close"
     },
     {
-     "path": "1-arrays/shift-unshift.js",
+     "path": "content/1-arrays/shift-unshift.js",
      "panel": 0,
      "action": "open"
     }
@@ -177,7 +177,7 @@
      "action": "close"
     },
     {
-     "path": "sum.js",
+     "path": "challenges/sum.js",
      "panel": 0,
      "action": "open"
     }
@@ -199,7 +199,7 @@
      "action": "close"
     },
     {
-     "path": "populate.js",
+     "path": "challenges/populate.js",
      "panel": 0,
      "action": "open"
     }
@@ -221,7 +221,7 @@
      "action": "close"
     },
     {
-     "path": "strarray.js",
+     "path": "challenges/strarray.js",
      "panel": 0,
      "action": "open"
     }
@@ -243,7 +243,7 @@
      "action": "close"
     },
     {
-     "path": "numsearch.js",
+     "path": "challenges/numsearch.js",
      "panel": 0,
      "action": "open"
     }
@@ -265,7 +265,7 @@
      "action": "close"
     },
     {
-     "path": "max.js",
+     "path": "challenges/max.js",
      "panel": 0,
      "action": "open"
     }
@@ -287,7 +287,7 @@
      "action": "close"
     },
     {
-     "path": "x10.js",
+     "path": "challenges/x10.js",
      "panel": 0,
      "action": "open"
     }
@@ -309,7 +309,7 @@
      "action": "close"
     },
     {
-     "path": "split.js",
+     "path": "challenges/split.js",
      "panel": 0,
      "action": "open"
     }

@@ -1,7 +1,7 @@
 
-var test = require('./test-fw.js');
+var test = require('../test-fw.js');
 
-test.tests('/home/codio/workspace/numsearch.js', [{
+test.tests('/home/codio/workspace/challenges/numsearch.js', [{
     inputs: [1,3,11,42,12, 42],
     outputs: [3],
   }, {

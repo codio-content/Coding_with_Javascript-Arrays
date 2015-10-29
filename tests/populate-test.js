@@ -1,7 +1,7 @@
 
-var test = require('./test-fw.js');
+var test = require('../test-fw.js');
 
-test.tests('/home/codio/workspace/populate.js', [{
+test.tests('/home/codio/workspace/challenges/populate.js', [{
     inputs: [8],
     outputs: [[0,10,20,30,40,50,60,70]],
   }, {

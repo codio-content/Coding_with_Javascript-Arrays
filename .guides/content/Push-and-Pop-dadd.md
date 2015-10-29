@@ -1,6 +1,6 @@
 Javascript also has a couple of useful methods for adding elements to the end of an array.
 
-{Run code}(node run-user.js ./1-arrays/push-pop.js)
+{Run code}(node run-user.js ./content/1-arrays/push-pop.js)
 
 ## Push
 `array.push(newElement)` is an often used way of adding a new element to the end of an array. Think "we are pushing a new element onto the end of the array".

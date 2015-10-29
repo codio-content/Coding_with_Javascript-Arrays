@@ -1,7 +1,7 @@
 
-var test = require('./test-fw.js');
+var test = require('../test-fw.js');
 
-test.tests('/home/codio/workspace/split.js', [{
+test.tests('/home/codio/workspace/challenges/split.js', [{
     inputs: [1, 2, 3, 4, 5, 6, 7, 8, 9],
     outputs: [[ 2, 4, 6, 8 ],[ 1, 3, 5, 7, 9 ]],
   }, {
