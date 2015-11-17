@@ -6,6 +6,8 @@
 // Get input from the command line
 var numbers = process.argv.slice(2)
 
+// Your code goes here
+
 // highest number so far
 // initialize to the lowest possible value.
 var maxSoFar= 0 - Number.MAX_VALUE
