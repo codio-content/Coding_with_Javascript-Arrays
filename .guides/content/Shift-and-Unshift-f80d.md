@@ -1,6 +1,6 @@
 There are also has a couple of useful methods for adding elements to the start of an array.
 
-{Run code}(node run-user.js ./content/1-arrays/shift-unshift.js)
+{Run code}(node ./content/1-arrays/shift-unshift.js)
 
 ## Unshift
 `array.push(newElement)` is an often used way of adding a new element to the end of an array. Think "we are pushing a new element onto the end of the array".

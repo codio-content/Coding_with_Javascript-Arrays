@@ -1,6 +1,6 @@
 We assume that you have already done the Flode Arrays Unit and are now familiar with the concept of arrays.
 
-{Run the code on the left}(node run-user.js ./content/1-arrays/example1.js)
+{Run the code on the left}(node ./content/1-arrays/example1.js)
 
 ## Creating arrays
 Array creation in Javascript works in exactly the same way as in Flode. The Flode chart on the left shows the Flode ways of creating arrays.

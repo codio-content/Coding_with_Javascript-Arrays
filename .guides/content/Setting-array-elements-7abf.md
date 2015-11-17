@@ -20,7 +20,7 @@ numArray = []
 ## Run the code
 Take a look at the code on the left. 
 
-{Run code}(node run-user.js ./content/1-arrays/example2.js)
+{Run code}(node ./content/1-arrays/example2.js)
 
 This shows how you 
 

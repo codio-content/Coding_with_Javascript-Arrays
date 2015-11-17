@@ -13,7 +13,7 @@ var total= 0
 
 // loop through the array
 for (var i=0; i < numbers.length; i++ ) {
-  total += numbers[i] // add this array value to the total
+  total += +numbers[i] // add this array value to the total
 }
 console.log(total) // output results
 ```

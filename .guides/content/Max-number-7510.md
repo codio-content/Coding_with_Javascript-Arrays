@@ -16,7 +16,7 @@ var indexOfMax= -1
 
 // loop through all the values in numbers
 for (var i=0; i < numbers.length; i++) {
-  var thisNumber= numbers[i]
+  var thisNumber= parseInt(numbers[i])
   if (thisNumber > maxSoFar) {
     maxSoFar = thisNumber
     indexOfMax = i
@@ -25,5 +25,6 @@ for (var i=0; i < numbers.length; i++) {
 
 // output
 console.log(indexOfMax)
+
 ```
 |||
