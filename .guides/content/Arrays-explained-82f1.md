@@ -1,9 +1,9 @@
-We assume that you have already done the Flode Arrays Unit and are now familiar with the concept of arrays.
+We assume that you have already done the Flode Arrays Unit and are now familiar with the concept of arrays. (If not, we recommend that you do. It is available in the course )
 
 {Run the code on the left}(node ./content/1-arrays/example1.js)
 
 ## Creating arrays
-Array creation in Javascript works in exactly the same way as in Flode. The Flode chart on the left shows the Flode ways of creating arrays.
+Array creation in Javascript works in exactly the same way as in Flode. 
 
 ### String arrays
 You create a string array like this

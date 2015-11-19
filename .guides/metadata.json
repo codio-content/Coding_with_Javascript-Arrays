@@ -77,7 +77,18 @@
   {
    "id": "ae6b34f5-ef42-e8ed-25a8-5e456a0232cb",
    "title": "Length of an array",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "content/length-example.js",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Length-of-an-array-ae6b.md",
