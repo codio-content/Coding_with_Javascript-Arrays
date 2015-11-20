@@ -1,4 +1,4 @@
-We assume that you have already done the Flode Arrays Unit and are now familiar with the concept of arrays. (If not, we recommend that you do. It is available in the course )
+We assume that you have already done the Flode Arrays Unit and are now familiar with the concept of arrays. (If not, we recommend that you do. It is available in the `An Introduction to Programming > Flode` course)
 
 {Run the code on the left}(node ./content/1-arrays/example1.js)
 
