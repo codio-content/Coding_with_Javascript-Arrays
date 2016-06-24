@@ -109,7 +109,7 @@
   },
   {
    "id": "dadd8e0e-1a3a-4801-3da5-aeb5a0bb626a",
-   "title": "Push and Pop",
+   "title": "Push and pop",
    "files": [
     {
      "path": "#tabs",
@@ -124,14 +124,14 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Push-and-Pop-dadd.md",
+   "content-file": ".guides/content/Push-and-pop-dadd.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "f80d53f1-3bcc-90c0-c2f3-5e3c1b6add79",
-   "title": "Shift and Unshift",
+   "title": "Unshift and shift",
    "files": [
     {
      "path": "#tabs",
@@ -146,7 +146,7 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Shift-and-Unshift-f80d.md",
+   "content-file": ".guides/content/Unshift-and-shift-f80d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

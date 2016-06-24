@@ -1,1 +1,1 @@
-Here come the rest of the challenges for arrays.
+Test yourself on what you have learned about arrays so far by completing the following challenges.

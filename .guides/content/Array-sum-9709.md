@@ -1,4 +1,5 @@
-Note that the `numbers` array is coming from the command line arguments, which are all stored in an array named 'process.argv' for us by the javascript interpreter. We just have to remove the first two elements that we do not want, using the array function `slice(2)`.
+Note that the `numbers` array comes from the command line arguments, which are all stored in an array named 'process.argv' for us by the JavaScript interpreter. 
+The first two elements that we do not want have been removed by using the array function `slice(2)`.
 
 {Check It!|assessment}(test-3916901719)
 

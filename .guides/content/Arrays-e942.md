@@ -1,3 +1,3 @@
-This Unit introduces you to Arrays written in Javascript. 
+This unit will introduce you to arrays written in JavaScript. 
 
-As usual, you will find some theory and challenges.
+You will learn about the theory behind using arrays and you will also complete some practical challenges to practise your new skills.
