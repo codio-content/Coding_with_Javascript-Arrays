@@ -1,0 +1,107 @@
+{
+ "name": "Coding_with_Javascript-Arrays",
+ "children": [
+  {
+   "title": "Arrays",
+   "id": "e942483c-b1f4-42b7-e597-33caf2e0e0",
+   "pageId": "e942483c-b1f4-42b7-e597-33caf2e0e0",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Experiments",
+     "id": "1e46398d-50ea-d061-25f0-26744848c984",
+     "pageId": "1e46398d-50ea-d061-25f0-26744848c984",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Arrays explained",
+   "id": "82f151df-4bd8-bd56-f3d1-1de4730cbf61",
+   "pageId": "82f151df-4bd8-bd56-f3d1-1de4730cbf61",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Length of an array",
+     "id": "ae6b34f5-ef42-e8ed-25a8-5e456a0232cb",
+     "pageId": "ae6b34f5-ef42-e8ed-25a8-5e456a0232cb",
+     "type": "page"
+    },
+    {
+     "title": "Setting array elements",
+     "id": "7abf3cf6-9779-3cc3-9776-696bb7a523e6",
+     "pageId": "7abf3cf6-9779-3cc3-9776-696bb7a523e6",
+     "type": "page"
+    },
+    {
+     "title": "Push and pop",
+     "id": "dadd8e0e-1a3a-4801-3da5-aeb5a0bb626a",
+     "pageId": "dadd8e0e-1a3a-4801-3da5-aeb5a0bb626a",
+     "type": "page"
+    },
+    {
+     "title": "Unshift and shift",
+     "id": "f80d53f1-3bcc-90c0-c2f3-5e3c1b6add79",
+     "pageId": "f80d53f1-3bcc-90c0-c2f3-5e3c1b6add79",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Challenges",
+   "id": "f9d0614b-94f4-d39c-be02-6b1368709d95",
+   "pageId": "f9d0614b-94f4-d39c-be02-6b1368709d95",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Array sum",
+     "id": "97098570-1fad-f0c-c7df-dff5704285f9",
+     "pageId": "97098570-1fad-f0c-c7df-dff5704285f9",
+     "type": "page"
+    },
+    {
+     "title": "Populate a new array",
+     "id": "e8b16add-98fa-34d2-4852-8dc4961d9576",
+     "pageId": "e8b16add-98fa-34d2-4852-8dc4961d9576",
+     "type": "page"
+    },
+    {
+     "title": "Short string array",
+     "id": "19709f2d-ba55-7a50-a1a3-27b05a18513b",
+     "pageId": "19709f2d-ba55-7a50-a1a3-27b05a18513b",
+     "type": "page"
+    },
+    {
+     "title": "Simple Number Search",
+     "id": "4d8cc68b-670f-9911-87a8-644c5fa904",
+     "pageId": "4d8cc68b-670f-9911-87a8-644c5fa904",
+     "type": "page"
+    },
+    {
+     "title": "Max number",
+     "id": "7510d998-2f84-be95-af18-be75d07f94",
+     "pageId": "7510d998-2f84-be95-af18-be75d07f94",
+     "type": "page"
+    },
+    {
+     "title": "X 10 every other",
+     "id": "68ffe9c-beb-64ff-22d9-6b07f098ec1",
+     "pageId": "68ffe9c-beb-64ff-22d9-6b07f098ec1",
+     "type": "page"
+    },
+    {
+     "title": "1 in, 2 out",
+     "id": "38373b23-a81-d9b3-7fcd-33fad4952452",
+     "pageId": "38373b23-a81-d9b3-7fcd-33fad4952452",
+     "type": "page"
+    },
+    {
+     "title": "All done!!",
+     "id": "8bcfecc4-7aae-8be7-6902-d15967218fc6",
+     "pageId": "8bcfecc4-7aae-8be7-6902-d15967218fc6",
+     "type": "page"
+    }
+   ]
+  }
+ ]
+}
